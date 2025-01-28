@@ -1,6 +1,6 @@
 # Humble Superhero API
 
-<img width="457" alt="des" src="https://github.com/user-attachments/assets/1ace3c4c-d309-4661-a32b-87b92ed4f0a7" />
+<img width="956" alt="super hero app" src="https://github.com/user-attachments/assets/c8a71721-3865-4ee0-83d2-517949161307" />
 
 ## Objective
 
