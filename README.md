@@ -1,8 +1,10 @@
 # Humble Superhero API
 
+<img width="457" alt="des" src="https://github.com/user-attachments/assets/1ace3c4c-d309-4661-a32b-87b92ed4f0a7" />
+
 ## Objective
 
-This API allows users to:
+This App allows users to:
 
 1. Add a new superhero, specifying their:
    - Name
@@ -32,6 +34,8 @@ This API allows users to:
 
 ### Steps
 
+#### Backend
+
 1. Clone the repository:
    ```bash
    git clone <repository_url>
@@ -41,13 +45,29 @@ This API allows users to:
    ```bash
    npm install
    ```
-3. Start the server:
+3. Start the backend server:
    ```bash
    npm run start
    ```
 4. The API will be available at `http://localhost:3000`.
-   ```
+
 5. The Swagger Documentation will be available at `http://localhost:3000/api-docs`.
+
+#### Frontend
+
+1. Navigate to the `humble-superhero-frontend` directory:
+   ```bash
+   cd humble-superhero-frontend
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the frontend:
+   ```bash
+   npm start
+   ```
+4. The frontend will be accessible at `http://localhost:5173/`.
 
 ---
 
@@ -148,3 +168,4 @@ If given more time, I would:
 6. Add logging and error handling with tools like Winston or Sentry to monitor and manage API errors effectively.
 
 ---
+```
